@@ -1,0 +1,51 @@
+body{
+    background-image: url("semiwhite.jpg"); 
+}
+#baloni
+{
+    float: left;
+    width:400px;
+    height:200px;
+}
+#naslov
+{
+    color: yellow;
+    margin:0px;
+    border: 2px  rgb(8, 50, 238);
+    padding:6px;
+    background-color: rgb(8, 50, 238);
+}
+#poziv
+{
+    margin:0px;
+    border:2px  rgb(8, 50, 238);
+    padding:5px 0px 111px 0px;
+    background-color: rgb(8, 50, 238);
+    color:yellow;
+    font-style: italic;
+    font-weight:bold;
+    font-size:18px;
+    float:center;
+}
+
+#zavrsetak
+{
+    padding:0px 0px 0px 814.5px;
+    margin:0px;
+    background-color: rgb(8, 50, 238);
+    color:yellow;
+    font-weight:bold;
+    float:right;
+    font-size:18px;
+    z-index:2;
+}
+.pozadina
+
+    {
+    background-image:transparent;
+    float:right;
+    width:950px;
+    height:201px;
+    position:absolute;
+    top:61px;
+    }
